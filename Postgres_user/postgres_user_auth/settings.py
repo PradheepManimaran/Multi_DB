@@ -89,6 +89,18 @@ DATABASES = {
         'PORT': '5432',
     }
 }
+# myproject/settings.py
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#         'NAME': 'techto',
+#         'USER': 'pradheep',
+#         'PASSWORD': 'wessco@123',
+#         'HOST': 'localhost',
+#         'PORT': '5432',
+#     }
+# }
 
 
 # Password validation
